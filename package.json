@@ -26,7 +26,11 @@
     ]
   },
   "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/preset-flow": "^7.24.1",
     "@skyscanner/backpack-web": "^15.1.0",
+    "babel-plugin-syntax-hermes-parser": "^0.20.1",
     "bpk-mixins": "^36.2.0",
     "bpk-stylesheets": "^7.2.16",
     "react": "^17.0.2",
